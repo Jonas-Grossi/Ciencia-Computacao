@@ -1,0 +1,33 @@
+no*insert(no*n, int chave)
+
+#define max(a,b) ((a)>(b)?(a):(b))
+
+
+------------------------------------------------------
+
+no->alt = 1+ max(height(no->esq), height(no->dir))
+
+int balance = (height(no->esq) - height(no->dir))
+	if (balance>0){
+		rotdir(n);
+	if (balance<0)
+
+-----------------------------------------------------
+
+
+no* rotdir(no*n)
+	no*s = n->esq
+	no*z = s->esq
+	no*e = s->dir
+	s->dir = n
+	n->esq = e
+	n->alt = 1 + max(height(e), height(f->dir)
+	s->alt = 1 + max(height(), height())
+	return s;
+
+int height(no*n){
+	if(no==NULL){
+		return 0;
+	else
+		return n->alt;
+}}

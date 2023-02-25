@@ -1,0 +1,13 @@
+Grupo: Marcelo Juste Lopes
+       Alison Veira
+       Juliana Paiva
+       Kleber David Baingo
+
+Foi usado para fazer nosso trabalho apenas o bloco de notas, usando as linguagens HTML, JavaScript e CSS(não foi usado nenhum programa para a modelagem do site).
+Tentamos focar principalmente em colocar em nosso trabalho tudo que aprendemos durante o semestre e mais algumas coisas que tive idéia!
+Foi muito boa as aulas Silder, desculpa qualquer coisa e até a próxima matéria!
+Abraço!
+
+
+silder.vecchi@ifsudestemg.edu.br
+Trabalho Final de Laboratório de Programação WEB.
